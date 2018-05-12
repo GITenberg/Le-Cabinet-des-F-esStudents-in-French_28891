@@ -1,0 +1,53 @@
+_repo: Le-Cabinet-des-F-esStudents-in-French_28891
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+  - agent_name: Leprince de Beaumont, Madame (Jeanne-Marie)
+    alias: Beaumont, Madame Leprince de (Jeanne-Marie Leprince)
+    birthdate: 1711
+    deathdate: 1780
+    gutenberg_agent_id: '31518'
+    url: http://www.gutenberg.org/2009/agents/31518
+    wikipedia: http://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Gérard, Georges
+    alias: Gerard, Georges
+    gutenberg_agent_id: '33573'
+    url: http://www.gutenberg.org/2009/agents/33573
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2009-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28891'
+  lccn: '10027174'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Readers'
+- !lcsh 'Fairy tales'
+- !lcc 'PC'
+tableOfContents: Le Petit Chaperon Rouge -- Le Chat Botté -- Cendrillon -- La Belle
+  au Bois Dormant -- Riquet à la Houppe -- Le Petit Poucet -- Les Fées -- Peau D'âne
+  -- L'oiseau Bleu -- La Bonne Petite Souris -- La Barbe-Bleue -- Finette Cendron
+  -- La Chatte Blanche -- Aurore et Aimée -- La Veuve et ses deux Filles -- La Biche
+  au Bois -- La Belle et la Bête -- La Belle aux Cheveux d'or -- Le Prince Chéri --
+  Fatal et Fortuné -- Le Prince Tity -- La Grenouille Bienfaisante -- Les Trois Souhaits
+  -- Bellotte et Laideronnette -- Le Pêcheur et le Voyageur -- Le Chien Reconnaissant.
+title: "Le Cabinet des Fées\r\nOr Recreative Readings Arranged for the Express Use\
+  \ of Students in French"
+url: http://www.gutenberg.org/ebooks/28891
